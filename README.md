@@ -84,6 +84,6 @@ Contact
 
 For any inquiries or feedback, please reach out to:
 
-Name: Your Name
-Email: your.email@example.com
+Name: rushikesh chaudhari
+Email: rushikeshc2003@gmail.com
 GitHub: Rxshi2003
